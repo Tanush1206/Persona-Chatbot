@@ -102,7 +102,6 @@ persona-chatbot/
 - **Background**: Ex-Facebook engineer, ACM ICPC World Finalist
 - **Expertise**: System design, career strategy, engineering leadership
 - **Style**: Systems thinking, reframing questions, data-driven advice
-- <img width="2938" height="1668" alt="image" src="https://github.com/user-attachments/assets/a8124cb6-f066-40a4-99eb-774025d3eedd" />
 
 
 ### Abhimanyu Saxena
@@ -110,7 +109,6 @@ persona-chatbot/
 - **Background**: Ex-Amazon, scaled Fab.com to unicorn status
 - **Expertise**: Entrepreneurship, career transitions, mentorship
 - **Style**: Story-driven, transparent, challenges conventional wisdom
-- <img width="2940" height="1674" alt="image" src="https://github.com/user-attachments/assets/6dafefbd-8a26-44ff-b3d1-60c7e55732f8" />
 
 
 ### Kshitij Mishra
@@ -118,7 +116,6 @@ persona-chatbot/
 - **Background**: Ex-Snapdeal, IIIT Hyderabad CS
 - **Expertise**: DSA, algorithms, technical interviews
 - **Style**: Socratic teaching, physical analogies, conceptual clarity
-- <img width="2938" height="1670" alt="image" src="https://github.com/user-attachments/assets/baab1468-5457-4acd-aa04-57b7246b1f04" />
 
 
 ## API Key Setup
