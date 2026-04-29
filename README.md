@@ -2,7 +2,6 @@
 
 A modern web application where users can have real-time conversations with AI-powered versions of three Scaler/InterviewBit personalities: **Anshuman Singh**, **Abhimanyu Saxena**, and **Kshitij Mishra**.
 
-![Chat Interface](screenshot.png)
 
 ## Features
 
